@@ -192,12 +192,10 @@ If you find this project helpful, please consider:
 
 If you enjoy using Word Finder and would like to support its development, consider buying me a coffee! ☕
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/makber)
 
 Your support helps keep this project alive and enables new features and improvements! 🚀
 
 ---
-
-**Made with ❤️ by [Your Name]**
 
 *Built for the open-source community*
